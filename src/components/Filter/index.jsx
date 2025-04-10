@@ -6,7 +6,7 @@ import { FaTrash } from "react-icons/fa";
 
 const Filter = () => {
   return (
-    <div className="relative h-[350px]">
+    <div className="relative h-[180px]">
       <div className="container flex flex-col gap-3 m-2 absolute top-[-150px]  z-10   mx-auto px-[250px]">
       <button className="flex items-center w-fit bg-[#ED6B2C] text-white p-3 rounded-xl">
         Türkçe <IoMdArrowDropdown />
