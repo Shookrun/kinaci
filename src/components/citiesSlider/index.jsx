@@ -83,7 +83,7 @@ const CitiesSwiper = () => {
       }}
       className="h-[500px]"
       pagination={{ clickable: true }}
-      scrollbar={{ draggable: true }}
+ 
     >
       {mockData.map(({ id, img, title, desc }) => (
         <SwiperSlide  key={id}>

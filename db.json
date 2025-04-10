@@ -1,0 +1,185 @@
+{
+    "houses":[
+        {
+            "id": "KNC-6637",
+            "img": "/announcements/img1.png",
+            "title": "Antalya LEED Sertifikalı Viva Defne Projesinde Şık Daireler",
+            "location": "Etiler, Istanbul",
+            "price": "150.000 $",
+            "minprice": "120.000 $",
+            "rooms": "4 + 2",
+            "kvmetr": "400",
+            "bathroom": "2",
+            "bedroom": "6"
+        },
+        {
+            "id": "KNC-6637",
+            "img": "/announcements/img1.png",
+            "title": "Antalya LEED Sertifikalı Viva Defne Projesinde Şık Daireler",
+            "location": "Etiler, Istanbul",
+            "price": "150.000 $",
+            "minprice": "120.000 $",
+            "rooms": "4 + 2",
+            "kvmetr": "400",
+            "bathroom": "2",
+            "bedroom": "6"
+        },
+        {
+            "id": "KNC-6638",
+            "img": "/announcements/img2.png",
+            "title": "Bodrum’da Mükemmel Manzaralı Daireler",
+            "location": "Bodrum, Muğla",
+            "price": "180.000 $",
+            "minprice": "150.000 $",
+            "rooms": "3 + 1",
+            "kvmetr": "350",
+            "bathroom": "3",
+            "bedroom": "5"
+        },
+        {
+            "id": "KNC-6639",
+            "img": "/announcements/img3.png",
+            "title": "İstanbul Merkezde Lüks Daireler",
+            "location": "Levent, Istanbul",
+            "price": "200.000 $",
+            "minprice": "175.000 $",
+            "rooms": "5 + 2",
+            "kvmetr": "450",
+            "bathroom": "3",
+            "bedroom": "7"
+        },
+        {
+            "id": "KNC-6640",
+            "img": "/announcements/img4.png",
+            "title": "Alanya'da Özel Yüzme Havuzlu Villalar",
+            "location": "Alanya, Antalya",
+            "price": "250.000 $",
+            "minprice": "230.000 $",
+            "rooms": "6 + 3",
+            "kvmetr": "500",
+            "bathroom": "4",
+            "bedroom": "8"
+        },
+        {
+            "id": "KNC-6641",
+            "img": "/announcements/img5.png",
+            "title": "Fethiye'de Deniz Manzaralı Daireler",
+            "location": "Fethiye, Muğla",
+            "price": "170.000 $",
+            "minprice": "140.000 $",
+            "rooms": "4 + 2",
+            "kvmetr": "380",
+            "bathroom": "3",
+            "bedroom": "6"
+        },
+        {
+            "id": "KNC-6642",
+            "img": "/announcements/img6.png",
+            "title": "Ankara'da Yeni Yapı Projesinde Modern Daireler",
+            "location": "Çankaya, Ankara",
+            "price": "130.000 $",
+            "minprice": "110.000 $",
+            "rooms": "3 + 1",
+            "kvmetr": "300",
+            "bathroom": "2",
+            "bedroom": "5"
+        },
+        {
+            "id": "KNC-6643",
+            "img": "/announcements/img1.png",
+            "title": "Antalya LEED Sertifikalı Viva Defne Projesinde Şık Daireler",
+            "location": "Etiler, Istanbul",
+            "price": "150.000 $",
+            "minprice": "120.000 $",
+            "rooms": "4 + 2",
+            "kvmetr": "400",
+            "bathroom": "2",
+            "bedroom": "6"
+        },
+        {
+            "id": "KNC-6644",
+            "img": "/announcements/img2.png",
+            "title": "Çeşme’de Yazlık Konforlu Daireler",
+            "location": "Çeşme, İzmir",
+            "price": "190.000 $",
+            "minprice": "160.000 $",
+            "rooms": "3 + 1",
+            "kvmetr": "350",
+            "bathroom": "3",
+            "bedroom": "5"
+        },
+        {
+            "id": "KNC-6645",
+            "img": "/announcements/img3.png",
+            "title": "Kadıköy’de Şehir Merkezine Yakın Modern Daireler",
+            "location": "Kadıköy, Istanbul",
+            "price": "210.000 $",
+            "minprice": "180.000 $",
+            "rooms": "5 + 2",
+            "kvmetr": "420",
+            "bathroom": "3",
+            "bedroom": "7"
+        },
+        {
+            "id": "KNC-6646",
+            "img": "/announcements/img4.png",
+            "title": "Bodrum’da Yüksek Kaliteli Modern Villalar",
+            "location": "Bodrum, Muğla",
+            "price": "230.000 $",
+            "minprice": "200.000 $",
+            "rooms": "6 + 3",
+            "kvmetr": "500",
+            "bathroom": "4",
+            "bedroom": "8"
+        },
+        {
+            "id": "KNC-6647",
+            "img": "/announcements/img5.png",
+            "title": "Ege Denizi Kenarında Muhteşem Villalar",
+            "location": "Marmaris, Muğla",
+            "price": "220.000 $",
+            "minprice": "190.000 $",
+            "rooms": "5 + 2",
+            "kvmetr": "470",
+            "bathroom": "3",
+            "bedroom": "7"
+        },
+        {
+            "id": "KNC-6648",
+            "img": "/announcements/img6.png",
+            "title": "Bursa’da Huzurlu Yaşam Daireleri",
+            "location": "Bursa, Marmara",
+            "price": "160.000 $",
+            "minprice": "140.000 $",
+            "rooms": "4 + 2",
+            "kvmetr": "400",
+            "bathroom": "2",
+            "bedroom": "6"
+        },
+        {
+            "id": "KNC-6649",
+            "img": "/announcements/img1.png",
+            "title": "İstanbul Boğaz Manzaralı Daireler",
+            "location": "Bebek, Istanbul",
+            "price": "180.000 $",
+            "minprice": "150.000 $",
+            "rooms": "4 + 1",
+            "kvmetr": "380",
+            "bathroom": "3",
+            "bedroom": "5"
+        },
+        {
+            "id": "KNC-6650",
+            "img": "/announcements/img2.png",
+            "title": "Konya'da Merkezi Lokasyonda Yüksek Konforlu Daireler",
+            "location": "Konya, İç Anadolu",
+            "price": "140.000 $",
+            "minprice": "120.000 $",
+            "rooms": "3 + 2",
+            "kvmetr": "300",
+            "bathroom": "2",
+            "bedroom": "5"
+        }
+    ]
+    
+}

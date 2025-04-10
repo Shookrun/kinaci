@@ -1,4 +1,5 @@
 import "./App.css";
+import Announcements from "./components/Announcements";
 import BannerSwiper from "./components/bannerSwiper";
 import Button from "./components/Button";
 import Cities from "./components/Cities";
@@ -16,6 +17,7 @@ function App() {
       <Filter/>
       <Cities/>
       <CitiesSwiper/>
+      <Announcements/>
     </div>
   );
 }
